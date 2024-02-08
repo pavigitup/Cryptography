@@ -1,0 +1,16 @@
+.tracker-con {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #000000;
+}
+.cryptocurrency-img {
+  width: 100%;
+}
+h1 {
+  font-size: medium;
+  text-align: center;
+  color: aquamarine;
+}

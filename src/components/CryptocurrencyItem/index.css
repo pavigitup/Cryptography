@@ -1,0 +1,25 @@
+* {
+  padding: 0px;
+  margin: 0px;
+}
+.list-con {
+  display: flex;
+  flex-direction: row;
+  background-color: #21122f;
+  border: 5px solid #232323;
+  width: 100%;
+  justify-content: space-evenly;
+}
+
+.currency-logo {
+  height: 20px;
+}
+p {
+  color: aliceblue;
+}
+.currency-item {
+  display: flex;
+}
+.header-con {
+  display: flex;
+}

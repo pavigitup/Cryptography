@@ -1,0 +1,21 @@
+.loader-con {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+h1 {
+  color: aliceblue;
+}
+.content-con {
+  display: flex;
+  flex-direction: column;
+  width: 400px;
+  justify-content: space-evenly;
+}
+.header-con {
+  width: 100%;
+  display: flex;
+  justify-content: space-evenly;
+}
